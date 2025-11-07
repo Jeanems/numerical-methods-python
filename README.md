@@ -51,4 +51,4 @@ El notebook incluye implementaciones de:
 **Jeanette Manquilef**  
 Data Science Trainee – TripleTen  
 🔗 GitHub: https://github.com/Jeanems  
-📧 [tu correo profesional]
+📧 jeanettemanquilef@gmail.com
