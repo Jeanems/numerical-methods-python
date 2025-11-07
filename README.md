@@ -1,6 +1,5 @@
 # numerical-methods-python
 Proyecto de métodos numéricos utilizando Python. Incluye resolución de ecuaciones, aproximaciones, optimización y análisis computacional.
-# 📐 Numerical Methods with Python
 # 📐 Métodos Numéricos con Python
 
 Proyecto desarrollado como parte del programa **Data Science – TripleTen**, enfocado en implementar y analizar diferentes métodos numéricos para resolver ecuaciones mediante Python.
