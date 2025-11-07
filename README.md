@@ -1,54 +1,71 @@
 # numerical-methods-python
 Proyecto de métodos numéricos utilizando Python. Incluye resolución de ecuaciones, aproximaciones, optimización y análisis computacional.
 # 📐 Numerical Methods with Python
+# 📐 Métodos Numéricos con Python
 
-Proyecto práctico desarrollado como parte del programa de **Data Science en TripleTen**.  
-Se implementan diferentes **métodos numéricos** para resolver problemas matemáticos mediante programación en Python.
+Proyecto desarrollado como parte del programa **Data Science – TripleTen**, enfocado en implementar y analizar diferentes métodos numéricos para resolver ecuaciones mediante Python.
 
 ---
 
 ## 🎯 Objetivo del proyecto
 
-Aplicar técnicas numéricas para:
-- Resolver ecuaciones mediante métodos iterativos  
-- Aproximar soluciones  
-- Analizar convergencia  
-- Implementar soluciones computacionales utilizando Python  
+Aplicar diversos métodos numéricos para encontrar raíces de funciones, evaluar su eficiencia y comparar su comportamiento en términos de precisión y convergencia.
 
 ---
 
 ## 🧮 Contenidos del proyecto
 
-El notebook incluye implementaciones de:
+Este proyecto incluye la implementación de los siguientes métodos:
 
 - Método de Bisección  
 - Método de Newton-Raphson  
-- Aproximación de raíces  
-- Análisis de comportamiento y precisión  
-- Visualizaciones del proceso de convergencia  
+- Método de la Secante  
+- Iteración de Punto Fijo  
 
-*(Puedes ajustar la lista según el contenido exacto del notebook)*
+Además, se incorporan:
 
----
-
-## 🛠️ Tecnologías utilizadas
-
-- Python  
-- Numpy  
-- Matplotlib  
-- Jupyter Notebook  
+- Análisis del error  
+- Comparación de convergencia  
+- Gráficos para visualizar el comportamiento de cada método  
 
 ---
 
-## 📂 Archivos del repositorio
+## 🧠 Procesos realizados
 
-- `Métodos numéricos.ipynb` — Notebook principal del proyecto  
+### 🔍 Análisis previo
+- Definición matemática de las funciones utilizadas  
+- Identificación de intervalos adecuados para las iteraciones  
+- Consideraciones de convergencia  
+
+### 🧹 Implementación en Python
+- Funciones iterativas para cada método  
+- Control del error máximo permitido  
+- Evaluación del número de iteraciones necesarias  
+- Uso de librerías como **NumPy** y **Matplotlib**  
+
+### 📊 Visualización
+- Gráficas de funciones  
+- Representación del comportamiento de convergencia  
+- Comparación visual entre métodos  
 
 ---
 
-## 👩‍💻 Autora
+## ✅ Resultados
 
-**Jeanette Manquilef**  
-Data Science Trainee – TripleTen  
-🔗 GitHub: https://github.com/Jeanems  
-📧 jeanettemanquilef@gmail.com
+El análisis permitió observar diferencias importantes en la precisión y velocidad de convergencia entre los métodos numéricos, destacando Newton-Raphson como uno de los más eficientes bajo condiciones adecuadas.
+
+---
+
+## 📁 Archivos incluidos
+
+- `Métodos numéricos.ipynb`  
+- `README.md`
+
+---
+
+## 🚀 Cómo ejecutar
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/Jeanems/numerical-methods-python.git
+
